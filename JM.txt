@@ -1,0 +1,48 @@
+* Programming Language
+Back-End: PHP5 (V 5.6.30)
+Front-End: HTML5, CSS3, JavaScript, Jquery, Ajax, Bootstrap3.
+Server: 127.0.0.1 via TCP/IP
+Server type: MariaDB (V 10.1.21)
+Server charset: UTF-8 Unicode (utf8)
+
+* Procedural
+PDO (PHP Data Objects)
+Customized MVC architecture pattern (Model View Controller)
+
+* Features
+Login both admin & user
+Admin and user registration
+CRUD (Create,Read,Update,Delete)
+JavaScript error handler,authentication.
+Print Reports
+Pagination & sorting
+Item Searching
+Password encryption (MD5)
+Navigation menus
+Refresh page button
+
+*** Tables (Only view method you cannot print)
+1. Ipaddress
+2. Hostname
+3. Function (text areas..)
+4. Storage capacity
+5. Memory capacity
+6. Location
+7. Work station no.
+
+*** Under Construction
+6. Operating System (Version number) (Windows 7, 10 etc ...)
+7. Processor
+8. Storage usage
+9. Memory usage
+10. CPU Usage
+
+*** Inserted forms
+1. History tracking (Ex. tagging)
+2. Tables
+   - 
+
+*** Failed
+1. http://localhost:90/rjglobus/admin/office.php (edit & delete office position)
+2. Option value (index.php) (both admin&user)
+3. tbl_off -> off_id, off_desc
